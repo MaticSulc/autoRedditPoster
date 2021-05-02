@@ -4,7 +4,7 @@
 4. pip install -r requirements.txt
 5. Then edit the file config.ini with appropriate details
 6. You need to create a reddit application on https://ssl.reddit.com/prefs/apps/
-7. A new line is made using \n\n
-8. Run the script using: python script.py
+7. A new line is made using \n
+8. Run the script using: python redditBot.py
 
 Developer: Excavator#6626
